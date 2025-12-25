@@ -1,16 +1,48 @@
-## Hi there 👋
+# Bhawani Sankar Das
 
-<!--
-**BhawaniDas/BhawaniDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (3rd Year, 6th Semester)  
+🏫 Centurion University of Technology and Management  
+💻 Aspiring Software Developer | Full Stack Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a motivated Computer Science Engineering student with a strong interest in **Full Stack Web Development**.  
+I enjoy building web applications by working across both frontend and backend technologies, and I focus on writing clean, maintainable code.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+
+### Frontend Technologies
+- HTML5
+- CSS3
+- React
+- Angular
+
+### Backend & Frameworks
+- Spring Boot
+
+### Database
+- MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+- Advanced Spring Boot and REST APIs  
+- Full Stack application development  
+- Data Structures and Algorithms  
+
+---
+
+## 🎯 Career Objective
+To become a **Software Developer** and contribute to building efficient, scalable, and user-focused software solutions.
